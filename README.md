@@ -13,5 +13,7 @@ An Api that sends a get request to the /me endpoint returns user profile, and fe
         "cors": "^2.8.5",
         "dotenv": "^17.2.2",
         "express": "^5.1.0"
+#environmental variable used:
+PORT=5050
 
         run npm install in directory and all packages would be installed
